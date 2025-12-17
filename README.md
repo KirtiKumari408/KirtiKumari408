@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Kirti
-- 👀 I’m interested in AI/ML, Java Development, UI/UX Designing and Web Development.
-- 🌱 I’m currently practicing DSA and learning Web development.
-- 💞️ I’m looking to collaborate on New projects and good internships!!
-- 📫 LinkedIn- Kirti Kumari
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Part-time coder, full-time learner! 
+Kirti Kumari
+
+AI & Machine Learning Engineer in the making | Real-World Intelligent Systems Builder
+
+AI/ML • Data-Driven Applications • DSA
+Building practical, real-world solutions powered by intelligence.
+
+💼 Open to AI/ML internships & meaningful project collaborations
+📫 Reach out to me on LinkedIn
+
 
 <!---
 KirtiKumari408/KirtiKumari408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
