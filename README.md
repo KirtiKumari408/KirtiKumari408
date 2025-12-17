@@ -1,7 +1,5 @@
 Kirti Kumari
 
-🤖AI & Machine Learning Engineer in the making | Real-World Intelligent Systems Builder
-
 📊AI/ML • Data-Driven Applications • DSA
 ⚙️Building practical, real-world solutions powered by intelligence.
 
